@@ -1,0 +1,53 @@
+.call-today-text {
+	font-size: 20px;
+	text-align: right;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: flex-end;
+}
+
+.topbox {
+	margin-top: 30px;
+}
+.town {
+	background-image: url('../img/townbg.jpg');
+	background-size: cover;
+	background-repeat:no-repeat;
+	font-size: 16px;
+}
+.jumbo-heading-custom {
+	font-size: 45px;
+	margin-top: 10px;
+  	margin-bottom: 10px
+}
+
+.footer-on-dark {
+	color: #fff;
+	font-size: 17px;
+}
+
+.iron {
+	background-image: url('../img/irongrip.png');
+	font-size: 16px;
+}
+
+.cloth {
+	background-image: url('../img/cloth_alike.png');
+}
+
+.boxes {
+	background-color: #eee;
+	padding: 30px;
+  	margin-bottom: 30px;
+  	background-image: url('../img/cloth_alike.png');
+  	border-radius: 6px;
+}
+
+.navboxes {
+	padding: 0px;
+	margin-bottom: 30px;
+  	background-image: url('../img/cloth_alike.png');
+  	border-radius: 6px;
+}
